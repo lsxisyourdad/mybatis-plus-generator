@@ -1,6 +1,5 @@
 package com.example.mybatisplusgenerator;
 
-import com.baomidou.mybatisplus.generator.AutoGenerator;
 import com.baomidou.mybatisplus.generator.FastAutoGenerator;
 import com.baomidou.mybatisplus.generator.config.*;
 import com.baomidou.mybatisplus.generator.engine.FreemarkerTemplateEngine;
@@ -9,6 +8,7 @@ import java.util.Collections;
 
 /**
  * mybatis plus 代码生成器
+ * 文档地址https://mp.baomidou.com/guide/generator-new.html#%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8
  *
  * @author lsx
  * @date 2021/9/30 11:39
